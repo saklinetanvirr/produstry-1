@@ -1,0 +1,14 @@
+@media(min-width: 320px) and (max-width: 991px) {
+    header .address {
+        text-align: center;
+        padding: 15px 0;
+    }
+    header .welcomeText {
+        clip-path: none;
+        padding: 15px 0;
+    }
+    header .socialLinks {
+        text-align: center;
+        padding: 10px 0;
+    }
+}
